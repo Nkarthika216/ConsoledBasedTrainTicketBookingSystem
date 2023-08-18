@@ -1,0 +1,6 @@
+Id(PNR),Train name,Train number,From,To,Travel date,Status,Booked by,Passengers,Transaction id
+4243361635,KANYAKUMARI EXPRESS,12634,madurai,chennai,21-06-2023,booked,karthi@gmail.com,0 1 2 3 4 5 ,0
+4243361636,KANYAKUMARI EXPRESS,12634,madurai,chennai,21-06-2023,booked,karthi@gmail.com,6 7 8 9 10 11 ,0
+4243361637,KANYAKUMARI EXPRESS,12634,madurai,chennai,21-06-2023,booked,karthi@gmail.com,12 13 14 15 16 17 ,0
+4243361638,KANYAKUMARI EXPRESS,12634,kanyakumari,madurai,21-06-2023,booked,karthi@gmail.com,18 19 20 21 22 23 ,0
+4243361639,KANYAKUMARI EXPRESS,12634,kanyakumari,madurai,21-06-2023,booked,karthi@gmail.com,24 25 26 27 28 29 ,0
